@@ -25,3 +25,6 @@ const filtro = require('./funcionesDeTareas/filtro');
 
 filtro(objetoLiteral,5);
 
+// Modifico un poco el codigo para subirlo a Github y ver 
+console.log("es una prueba para GitHub");
+
